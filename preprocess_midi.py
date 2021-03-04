@@ -1,4 +1,4 @@
-fimport mido
+import mido
 from pprint import pprint
 import sys
 #mid = MidiFile('./mary_had_a_little_lamb.mid')
