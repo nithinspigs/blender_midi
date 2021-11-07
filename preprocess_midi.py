@@ -5,7 +5,7 @@ import sys
 mid = mido.MidiFile('./Arabesque_L._66_No._1_in_E_Major.mid') # Block: 0 (Read MIDI File)
 
 #
-# We will create a modified midifile. Tracks > 0 will be modified. So create a new midifile and start with the original Track 0
+# create a modified midifile. Tracks > 0 will be modified. So create a new midifile and start with the original Track 0
 #
 
 modified_mid = mido.MidiFile()
